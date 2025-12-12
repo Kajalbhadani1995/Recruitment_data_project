@@ -23,3 +23,18 @@ Q5. Which gender submitted more applications, and which gender received more off
 
 ## Key findings
 
+The total applications we got are 3000 the average age of the candidates are 42, 610 applicants got selected in the company and if we talk about the average age of the applicants are 10.
+
+we have received most applications for the Best Boy role and least Job title the candidates applied for is Adimistrstion among Top 5 job roles
+
+July is the month when the got more applications that is 1047
+
+They have rejected and selected the candidates who have more then 12+ years of experience rejected applicants 264 selected candidates 251, 88 applicants were rejected those who have 0-2 years of experience and if we talk about education wise selection the company has offered the job those who got Master's degree (164). 
+
+They have got more applications from the senior level candidates and least from entry
+
+The company recevied more jobs applications from Male which is 1030 and least from female 967. male selection no. is 217 although other community has distributed more in applications no. but the selection rate are low even low from the females those who have contributed less in applications no. 
+
+The average expected salary of the applicants are 65076.06
+
+## Conclusion
