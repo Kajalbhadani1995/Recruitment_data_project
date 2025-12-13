@@ -40,3 +40,7 @@ The average expected salary of the applicants are 65076.06
 Links
 
 PPT link:- https://github.com/Kajalbhadani1995/Recruitment_data_project/blob/main/Recruitment%20Data%20Project.pdf
+
+MySQL link:- https://github.com/Kajalbhadani1995/Recruitment_data_project/blob/main/recruitment_data.sql
+
+Python link:- 
