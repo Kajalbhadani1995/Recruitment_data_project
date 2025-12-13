@@ -43,4 +43,4 @@ PPT link:- https://github.com/Kajalbhadani1995/Recruitment_data_project/blob/mai
 
 MySQL link:- https://github.com/Kajalbhadani1995/Recruitment_data_project/blob/main/recruitment_data.sql
 
-Python link:- 
+Python link:- https://github.com/Kajalbhadani1995/Recruitment_data_project/blob/main/Recruiting_Anaysis.ipynb
