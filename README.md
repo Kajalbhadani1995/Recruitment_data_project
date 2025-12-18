@@ -1,6 +1,6 @@
 # Recruitment_data_project
 
-## Introduction
+## Introduction 
 
 This analysis aims to solve the recruitment problem of a company. The hiring team is getting an increasing number of applications for multiple job roles, that’s why the team is lacking clarity on applicant trends and hiring outcomes. They are trying to find a systematic way to store the data and to know about the offered and rejected applicants’ average age, gender analysis.To create this project, I have used two tools: Python and MySQL. I have connected the Python to MySQL using PyMySQL connector. I imported the data cleaned and transformed the data in Python and used MySQL to find the insights
 also I created a presentation to present the findings clearly.
