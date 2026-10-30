@@ -1,4 +1,4 @@
-# Recruitment Data Analysis।
+# Recruitment Data Analysis | Python | MySQL 
 
 ## Introduction 
 
