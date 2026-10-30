@@ -2,10 +2,11 @@
 
 ## Introduction 
 
-This analysis aims to solve the recruitment problem of a company. The hiring team is getting a high number of applications for multiple job roles", that’s why the team is lacking clarity on applicant trends and hiring outcomes. They are trying to find a systematic way to store the data and to know about the offered and rejected applicants’ average age, gender analysis. To create this project, I have used two tools: Python and MySQL. I have connected the Python to MySQL using PyMySQL connector. I imported the data, cleaned and transformed it in Python and used MySQL to find the insights
-also I created a presentation to present the findings clearly.
+This analysis aims to solve the recruitment problem of a company. The hiring team is getting a high number of applications for multiple job roles, which leaves the team without clarity on applicant trends and hiring outcomes. They are trying to find a systematic way to store the data and understand applicant demographics (age, gender, experience) and hiring outcomes.
+To create this project, I used two tools: Python and MySQL. I imported the data, cleaned and transformed it in Python, connected Python to MySQL using the PyMySQL connector, and used MySQL to find the insights. I also created a presentation to present the findings clearly.
 
 Dataset: Practice recruitment dataset.
+
 Data preparation: Imported the CSV into pandas (Jupyter Notebook), cleaned and transformed it, then created the MySQL database and table and loaded the records from Python using PyMySQL.
 
 ## Business Problem 
