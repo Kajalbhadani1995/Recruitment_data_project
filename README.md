@@ -30,7 +30,6 @@ Q5. Which gender submitted more applications, and which gender received more off
 * Offer rates were highest for 6–8 years of experience (about 58%) and Master's degree holders (about 55%, 164 offers); candidates with 12+ years were offered at 49%.
 * Senior-level applicants (6+ years) make up about 72% of applicants; entry-level only about 9%.
 * Male applicants submitted the most applications (1,030) and received the most offers (217), while female applicants submitted the fewest (967); offer rates were nearly even across genders (about 19–21%).
-* The average expected salary of the applicants is ₹65,076.06.
 
 
 ## Recommendations
