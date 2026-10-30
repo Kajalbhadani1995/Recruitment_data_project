@@ -25,12 +25,20 @@ Q5. Which gender submitted more applications, and which gender received more off
 
 * 3,000 applications; 610 candidates received offers (20.3% offer rate) and 594 were rejected.
 * Average applicant age is 42 and average experience is 10 years.
-* we have received most applications for the Best Boy role and least Job title the candidates applied for is Adimistrstion among Top 5 job roles
+* wApplications are spread across many roles; "Best Boy" had the most (13 applicants)
 * Applications came in May–Aug, peaking in July (1,047) and June (983), which together account for about 68% of all applications.
-* They have rejected and selected the candidates who have more then 12+ years of experience rejected applicants 264 selected candidates 251, 88 applicants were rejected those who have 0-2 years of experience and if we talk about education wise selection the company has offered the job those who got Master's degree (164). 
+* Offer rates were highest for 6–8 years of experience (about 58%) and Master's degree holders (about 55%, 164 offers); candidates with 12+ years were offered at 49%.
 * Senior-level applicants (6+ years) make up about 72% of applicants; entry-level only about 9%.
-* The company recevied more jobs applications from Male which is 1030 and least from female 967. Male applicants submitted the most applications (1,030) and received the most offers (217), but offer rates were nearly even across genders (about 19–21%)."
-* The average expected salary of the applicants are ₹65,076.06
+* Male applicants submitted the most applications (1,030) and received the most offers (217), while female applicants submitted the fewest (967); offer rates were nearly even across genders (about 19–21%).
+* The average expected salary of the applicants are ₹65,076.06.
+
+
+## Recommendations
+
+* Plan screening and interview capacity for June–July, which together received about 68% of all applications in the May–Aug data.
+* Widen entry-level sourcing if the company wants an early-career pipeline, since only about 9% of applicants (284 of 3,000) are entry-level.
+* Review screening criteria for senior candidates: 12+ years is the largest group, yet its offer rate (49%) is lower than for 6–8 years (about 58%).
+* Keep tracking offer rates by gender; they are nearly even (19–21%) in this data, so no gap is visible.
 
 Links
 
